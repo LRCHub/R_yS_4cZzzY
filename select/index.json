@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "三月と狼少年",
+  "base_artist": "n-buna",
+  "createdAt": "2026-03-18T15:37:16.940399Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "三月と狼少年",
+      "artist": "n-buna",
+      "has_synced": false,
+      "path": "select/01_三月と狼少年_n-buna.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "三月と狼少年",
+      "artist": "ナブナ",
+      "has_synced": false,
+      "path": "select/02_三月と狼少年_ナブナ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "三月と狼少年",
+      "artist": "n-buna",
+      "has_synced": false,
+      "path": "select/pl_01_三月と狼少年_n-buna.txt"
+    }
+  ]
+}
